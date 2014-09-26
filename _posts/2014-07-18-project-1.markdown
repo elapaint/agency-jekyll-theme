@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Ever wanted to try oil painting but not had the equipment and been worried about the mess? Or perhaps you’re an artist with a computer but no desire to learn complex new tools in a digital environment or a digital artist wanting a touch of real media?
 
 ---
