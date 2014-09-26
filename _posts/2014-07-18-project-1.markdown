@@ -3,19 +3,13 @@ title: ArtRage
 subtitle: What Is ArtRage?
 layout: default
 modal-id: 1
-date: 2014-09-26
+date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: September 2014
+project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Ever wanted to try oil painting but not had the equipment and been worried about the mess? Or perhaps you’re an artist with a computer but no desire to learn complex new tools in a digital environment or a digital artist wanting a touch of real media?
-
-You can paint with thick oils that smear and blend naturally, draw with pencil and chalk that reacts to the texture of your canvas, and get realistic results without needing to resort to post-processing techniques. It all happens automatically while you paint.
-
-ArtRage is a computer painting package with a difference. It’s designed to bring out your creative side with a set of natural painting and drawing tools that simulate familiar, real world tools. This means you can get straight in to painting without needing to re-learn how to do it.
-
-The advanced paint simulation is hidden behind an easy to use interface that gets out of the way while you paint and gives quick access to the things you need for your current task. It’s like an easel: Put the tools you want on your utility shelf and leave the rest in their box for another day.
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
